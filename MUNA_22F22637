@@ -10,7 +10,7 @@ int main()
 	printf("\n\t\t\tPress <2> Sales Performance Comparison");
 	printf("\n\t\t\tPress <3> Exit!");
 
-	printf("\n\n\t\t\tEnter your choice[1-3]");
+	printf("\Enter your choice[1-3]");
 	scanf("%d",&choice);
         switch(choice){
         case 1:
