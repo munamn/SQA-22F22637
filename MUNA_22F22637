@@ -14,7 +14,7 @@ int main()
 	scanf("%d",&choice);
         switch(choice){
         case 1:
-         firstmonth(
+         firstmonth();
   secondmonth();
  thirdmonth();
           break;
@@ -22,6 +22,8 @@ int main()
      saleper();
           break;
         case 3: exit=0; break;
+	hi 
+	hello 
     }
 
 }
