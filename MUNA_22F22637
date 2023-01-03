@@ -22,6 +22,8 @@ int main()
      saleper();
           break;
         case 3: exit=0; break;
+	hi 
+	hello 
     }
 
 }
